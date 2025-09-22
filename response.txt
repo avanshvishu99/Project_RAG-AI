@@ -1,0 +1,9 @@
+Don't worry, I'd be happy to help you with your Sigma web development course.
+
+For your question about where form is taught in our course, forms are actually introduced in Video 2: "Your First HTML Website".
+
+In this video, we discuss how to create a basic HTML structure and also cover the basics of forms. You can watch this video at approximately 1 hour and 37 seconds into it (1:37).
+
+If you want to skip directly to the form section, start playing Video 2 from 1:37 onwards.
+
+Let me know if you have any more questions or need further clarification on anything related to our course!
